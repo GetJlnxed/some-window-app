@@ -1,3 +1,3 @@
 ## Prebuild of ready window-app
 
-go to https://getjlnxed.github.io/testExp/ to play
+go to https://getjlnxed.github.io/some-window-app/ to play
